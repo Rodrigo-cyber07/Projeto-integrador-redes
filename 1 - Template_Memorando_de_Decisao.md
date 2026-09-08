@@ -3,20 +3,17 @@
 
 | Campo | Informação |
 |---|---|
-| Curso / Disciplina | Ciencias da computação / Estrutura de Dados II   |
-| Projeto integrador | Preditor de Falha e Risco em Dispositivos de Rede|
-| Projeto integrador | reditor de Falha e Risco em Dispositivos de Rede |
-| Orientador(a) | Prof. Andréa Ono Sakai, Prof. Denise Braito de Souza  |
-| Data de entrega desta etapa                                   | 08/09 |
+| Curso / Disciplina | Ciências da Computação / Estrutura de Dados II   |
+| Projeto Integrador | Preditor de Falha e Risco em Dispositivos de Rede |
+| Projeto integrador | Reditor de Falha e Risco em Dispositivos de Rede |
+| Orientador(a) | Prof. Andréa Ono Sakai, Prof. Denise Braito de Souza |
+| Data de entrega desta etapa                                   | 08/09 |
 | Integrantes do grupo | Victor Gabriel Alves, Livia Freixo, Rodrigo Camargo |
-
 ---
-
-> Preencha cada seção com o que você encontrou na pesquisa. Não deixe nenhum campo com o texto entre colchetes — substitua pelo seu conteúdo. Toda informação levantada nas Opções A e B precisa indicar a fonte de onde veio.
 
 ## 1. Situação
 
-Fase de decisão, os nosso grupo precisa verificar a API do RIPE Atlas para a coleta de dados de medição ICMP, garantindo que o pipeline receba dados válidos para extração de latência, perda e jitter.
+Fase incial: o nosso grupo precisa verificar a API do RIPE Atlas para a coleta de dados de medição ICMP, garantindo que o pipeline receba dados válidos para extração de latência, perda e resposta.
 
 ## 2. Opção A — Dataset real
 
