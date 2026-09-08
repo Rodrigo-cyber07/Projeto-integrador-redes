@@ -84,9 +84,9 @@ Fase incial: o nosso grupo precisa verificar a API do RIPE Atlas para a coleta d
 `[]` 
 `[]`
 
-### Integrante 2 — `[Escreva nome completo do aluno ]`
-- **O que fez nesta etapa:** `[]`
-- **Tempo dedicado (aprox.):** `[ex.: 3h30]`
+### Integrante 2 — `[Rodrigo Camargo Vieira ]`
+- **O que fez nesta etapa:** `[Pesquisa e documentação Dataset Real]`
+- **Tempo dedicado (aprox.):** `[1h30]`
 - **Evidência da contribuição** *(print de conversa, rascunho, e-mail, documento compartilhado etc.)*:
 `[]` 
 `[]`
