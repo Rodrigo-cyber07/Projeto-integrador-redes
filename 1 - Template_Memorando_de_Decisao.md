@@ -19,11 +19,11 @@ Fase incial: o nosso grupo precisa verificar a API do RIPE Atlas para a coleta d
 
 <!-- O que foi encontrado sobre um dataset real de ICMP. Cite a fonte de cada informação. -->
 
-- **Origem / link:** [ ]
-- **Formato:** [ ]
-- **Período coberto:** [ ]
-- **Campos disponíveis:** [ ]
-- **Licença de uso:** [ ]
+- **Origem / link:** [ Zenodo — Dataset of RTT latency internet measurements in Europe. DOI: 10.5281/zenodo.15944458.  ]
+- **Formato:** [CSV, incluindo os arquivos Landmark_RTTfingerprint_dataset.csv e Target_RTTfingerprint_dataset.csv, além de um arquivo README. ]
+- **Período coberto:** [27 de novembro de 2024 a 30 de janeiro de 2025. ]
+- **Campos disponíveis:** [measure_id, identificador do destino, tipo do destino, endereço IP, horário da medição, código do país, latitude, longitude, intervalos de tempo e estatísticas de latência RTT. ]
+- **Licença de uso:** [a página do repositório da Universidad Politécnica de Cartagena identifica o dataset como CC0 1.0, permitindo seu uso sem as restrições de uma licença tradicional de copyright. ]
 
 **Resumo do que foi encontrado:**
 
